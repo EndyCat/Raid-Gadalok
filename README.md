@@ -2,12 +2,12 @@
 ## Телеграм канал с номерами телефонов гадалок и их стримами
 Telegram - [Тык](https://t.me/rayd_gadalok)
 
-##Установка
-##Для пк
+## Установка
+# Для пк
 - Скачайте билд или исходник [тык](https://github.com/EndyCat/Raid-Gadalok/blob/main/%D0%B1%D0%B8%D0%BB%D0%B4%20%D0%BF%D0%BE%D0%B4%20%D0%BF%D0%BA.zip?raw=true)
 - Распакуйте файл
 - Запустите main.exe или main.py
-##Для ISH(ios)
+# Для ISH(ios)
 ```
 - wget -qO- http://dl-cdn.alpinelinux.org/alpine/v3.12/main/x86/apk-tools-static-2.10.5-r1.apk | tar -xz sbin/apk.static && ./sbin/apk.static add apk-tools && rm sbin/apk.static
 - Apk update
@@ -17,7 +17,7 @@ Telegram - [Тык](https://t.me/rayd_gadalok)
 - git clone https://github.com/EndyCat/Raid-Gadalok
 - cd Raid-Gadalok 
 ```
-##Для Termux(Android)
+# Для Termux(Android)
 - apt update
 - apt ugrade
 - apt install python3
