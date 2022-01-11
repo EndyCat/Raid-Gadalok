@@ -1,5 +1,10 @@
-import sys
 import os
+try:
+    os.system('pip install bs4')
+    os.system('pip3 install bs4')
+except:
+    pass
+import sys
 from StructService import Distribution_Service
 from config import attack
 
