@@ -29,7 +29,7 @@ target = input('Телефон: ')
 try:
     attack_number_phone.phone(target)
 except Exception as error:
-    print(f'Невалил, попробуйте что то типа - Телефон - +7666666666')
+    print(f'Невалид, попробуйте что то типа - Телефон - +7666666666')
     sys.exit()
 
 while True:
