@@ -8,7 +8,6 @@ Telegram - [Тык](https://t.me/rayd_gadalok)
 - Распакуйте файл
 - Запустите main.exe или main.py
 ### Для ISH(ios)
-```
 - wget -qO- http://dl-cdn.alpinelinux.org/alpine/v3.12/main/x86/apk-tools-static-2.10.5-r1.apk | tar -xz sbin/apk.static && ./sbin/apk.static add apk-tools && rm sbin/apk.static
 - Apk update
 - Apk upgrade
@@ -16,7 +15,6 @@ Telegram - [Тык](https://t.me/rayd_gadalok)
 - Apk add git
 - git clone https://github.com/EndyCat/Raid-Gadalok
 - cd Raid-Gadalok 
-```
 ### Для Termux(Android)
 - apt update
 - apt ugrade
