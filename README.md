@@ -1,3 +1,11 @@
-# Raid Gadalok
+## Antichrist Blog
+Telegram - [Antichrist (Creator)](https://t.me/antichristone), subscription or life?
 
-СОЗДАН ЧТОБЫ РВАТЬ ЗВОНИЛКИ МОШЕНИЦ В КЛОЧЬЯ
+## Start
+```
+proxychains python3 main.py
+```
+
+## License
+**Mozilla Public License 2.0**
+
